@@ -11,17 +11,17 @@ Class registration helper for University of Illinois at Urbana-Champaign, includ
 
 ## TODO
 
-  lecture and discussion simultaneous monitoring/registering 
-  user signup
-  store password securely
-  data sync between client and server
-  push database schema
-  package setup script
+  lecture and discussion simultaneous monitoring/registering  
+  user signup  
+  store password securely  
+  data sync between client and server  
+  push database schema  
+  package setup script  
   
   And of course, I’ll be working on a client with a friendly UI.
 
 ## Dependencies
 
-   libpynexmo
-   mechanize
-   MySQLdb
+   libpynexmo  
+   mechanize  
+   MySQLdb  
